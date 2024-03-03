@@ -1,2 +1,2 @@
 # Custom-Chatbot
-![Results](Chatbot_Results.png)
+![Results](Chabot_Results.png)
